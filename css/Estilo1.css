@@ -1,0 +1,30 @@
+body{
+    background:darkblue;
+
+}
+
+h1{
+    color:lightgreen ;
+    text-align:center ;
+    background:blue ;
+    font-size:70PX ;
+    padding:20px 20px ;
+}
+h2{
+    color:lightgreen;
+    text-align:center ;
+    font-size:60PX ;
+
+}
+h3{
+   color:black;
+   text-align:left;
+   background:gold;
+   font-size:30px;
+   width:200px;
+   padding:20px 20px ;
+}
+
+h4{
+   color:yellow;
+}
